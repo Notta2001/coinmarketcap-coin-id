@@ -1,0 +1,96 @@
+[
+    {
+        "address": "0x3ba4c387f786bfee076a58914f5bd38d668b42c3",
+        "coin_id": "binancecoin",
+        "origin_token_id": "",
+        "name": "Binance Coin",
+        "symbol": "bnb"
+    },
+    {
+        "address": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
+        "coin_id": "binance-usd",
+        "origin_token_id": "",
+        "name": "Binance USD",
+        "symbol": "busd"
+    },
+    {
+        "address": "0xb46e0ae620efd98516f49bb00263317096c114b2",
+        "coin_id": "theta-token",
+        "origin_token_id": "",
+        "name": "Theta Network",
+        "symbol": "theta"
+    },
+    {
+        "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "coin_id": "dai",
+        "origin_token_id": "",
+        "name": "Dai",
+        "symbol": "dai"
+    },
+    {
+        "address": "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c",
+        "coin_id": "crypto-com-chain",
+        "origin_token_id": "",
+        "name": "Crypto.com Coin",
+        "symbol": "cro"
+    },
+    {
+        "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+        "coin_id": "compound-governance-token",
+        "origin_token_id": "",
+        "name": "Compound",
+        "symbol": "comp"
+    },
+    {
+        "address": "0x6f7c932e7684666c9fd1d44527765433e01ff61d",
+        "coin_id": "maker",
+        "origin_token_id": "",
+        "name": "Maker",
+        "symbol": "mkr"
+    },
+    {
+        "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+        "coin_id": "the-graph",
+        "origin_token_id": "",
+        "name": "The Graph",
+        "symbol": "grt"
+    },
+    {
+        "address": "0xf4310adb83694bc4808e0c5ca8f7027c6127921d",
+        "coin_id": "oraichain-token",
+        "origin_token_id": "",
+        "name": "Oraichain Token",
+        "symbol": "orai"
+    },
+    {
+        "address": "0x",
+        "coin_id": "matic-network",
+        "origin_token_id": "matic-network",
+        "name": "Polygon",
+        "symbol": "matic"
+    },
+    {
+        "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+        "name": "MAI (MIMATIC)",
+        "symbol": "MAI",
+        "coin_id": "mimatic"
+    },
+    {
+        "address": "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
+        "name": "Avalanche",
+        "symbol": "AVAX",
+        "coin_id": "avalanche-2"
+    },
+    {
+        "address": "0x42006ab57701251b580bdfc24778c43c9ff589a1",
+        "name": "EvoVerses",
+        "symbol": "EVO",
+        "coin_id": "evoverses"
+    },
+    {
+        "coin_id": "dfyn-network",
+        "name": "Dfyn Network",
+        "symbol": "DFYN",
+        "address": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97"
+    }
+]
