@@ -1,16 +1,5 @@
 [
     {
-        "coin_id": "usd-coin",
-        "name": "USD Coin",
-        "symbol": "usdc",
-        "address": "0x04068da6c83afcfa0e13ba15a6696662335d5b75",
-        "decimals": 6,
-        "market_cap_rank": 9,
-        "total_volume": 1983696158,
-        "market_cap": 29536523805,
-        "price": 1.0
-    },
-    {
         "coin_id": "fantom",
         "name": "fantom",
         "symbol": "FTM",
@@ -20,105 +9,6 @@
         "total_volume": 1588896167.4,
         "market_cap": 1604785129,
         "price": 1.01
-    },
-    {
-        "coin_id": "weth",
-        "name": "WETH",
-        "symbol": "weth",
-        "address": "0x74b23882a30290451a17c44f4f05243b6b58c76d",
-        "decimals": 18,
-        "market_cap_rank": 9223372036854775807,
-        "total_volume": 701564380,
-        "market_cap": 0.0,
-        "price": 3200.26
-    },
-    {
-        "coin_id": "dai",
-        "name": "Dai",
-        "symbol": "dai",
-        "address": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
-        "decimals": 18,
-        "market_cap_rank": 28,
-        "total_volume": 266791510,
-        "market_cap": 5839390232,
-        "price": 1.0
-    },
-    {
-        "coin_id": "shiba-inu",
-        "name": "Shiba Inu",
-        "symbol": "shib",
-        "address": "0x65e66a61d0a8f1e686c2d6083ad611a10d84d97a",
-        "decimals": 18,
-        "market_cap_rank": 49,
-        "total_volume": 596408147,
-        "market_cap": 3827680388,
-        "price": 7.71e-06
-    },
-    {
-        "coin_id": "curve-dao-token",
-        "name": "Curve DAO Token",
-        "symbol": "crv",
-        "address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b",
-        "decimals": 18,
-        "market_cap_rank": 95,
-        "total_volume": 430749164,
-        "market_cap": 1114087520,
-        "price": 2.76
-    },
-    {
-        "coin_id": "sushi",
-        "name": "Sushi",
-        "symbol": "sushi",
-        "address": "0xae75a438b2e0cb8bb01ec1e1e376de11d44477cc",
-        "decimals": 18,
-        "market_cap_rank": 67,
-        "total_volume": 420388142,
-        "market_cap": 2172397719,
-        "price": 11.24
-    },
-    {
-        "coin_id": "wrapped-bitcoin",
-        "name": "Wrapped Bitcoin",
-        "symbol": "wbtc",
-        "address": "0x321162cd933e2be498cd2267a90534a804051b11",
-        "decimals": 8,
-        "market_cap_rank": 20,
-        "total_volume": 363845317,
-        "market_cap": 9453938344,
-        "price": 45734
-    },
-    {
-        "coin_id": "aave",
-        "name": "Aave",
-        "symbol": "aave",
-        "address": "0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b",
-        "decimals": 18,
-        "market_cap_rank": 43,
-        "total_volume": 260213660,
-        "market_cap": 4305684575,
-        "price": 325.58
-    },
-    {
-        "coin_id": "havven",
-        "name": "Synthetix Network Token",
-        "symbol": "snx",
-        "address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc",
-        "decimals": 18,
-        "market_cap_rank": 69,
-        "total_volume": 191238208,
-        "market_cap": 2048841334,
-        "price": 11.72
-    },
-    {
-        "coin_id": "band-protocol",
-        "name": "Band Protocol",
-        "symbol": "band",
-        "address": "0x46e7628e8b4350b2716ab470ee0ba1fa9e76c6c5",
-        "decimals": 18,
-        "market_cap_rank": 215,
-        "total_volume": 40932290,
-        "market_cap": 296403922,
-        "price": 8.4
     },
     {
         "coin_id": "kyber-network",
@@ -165,28 +55,6 @@
         "price": 0.301647
     },
     {
-        "coin_id": "hegic",
-        "name": "Hegic",
-        "symbol": "hegic",
-        "address": "0x44b26e839eb3572c5e959f994804a5de66600349",
-        "decimals": 18,
-        "market_cap_rank": 405,
-        "total_volume": 14080512,
-        "market_cap": 96609775,
-        "price": 0.16533
-    },
-    {
-        "coin_id": "nusd",
-        "name": "sUSD",
-        "symbol": "susd",
-        "address": "0x0e1694483ebb3b74d3054e383840c6cf011e518e",
-        "decimals": 18,
-        "market_cap_rank": 216,
-        "total_volume": 11535410,
-        "market_cap": 294542750,
-        "price": 0.948316
-    },
-    {
         "coin_id": "nexo",
         "name": "NEXO",
         "symbol": "nexo",
@@ -220,17 +88,6 @@
         "price": 5.31
     },
     {
-        "coin_id": "keep3rv1",
-        "name": "Keep3rV1",
-        "symbol": "kp3r",
-        "address": "0x2a5062d22adcfaafbd5c541d4da82e4b450d4212",
-        "decimals": 18,
-        "market_cap_rank": 402,
-        "total_volume": 5639199,
-        "market_cap": 97455021,
-        "price": 372.69
-    },
-    {
         "coin_id": "rari-governance-token",
         "name": "Rari Governance Token",
         "symbol": "rgt",
@@ -240,28 +97,6 @@
         "total_volume": 4032715,
         "market_cap": 200742077,
         "price": 17.96
-    },
-    {
-        "coin_id": "cream-2",
-        "name": "Cream",
-        "symbol": "cream",
-        "address": "0x657a1861c15a3ded9af0b6799a195a249ebdcbc6",
-        "decimals": 18,
-        "market_cap_rank": 363,
-        "total_volume": 2571351,
-        "market_cap": 125365974,
-        "price": 164.67
-    },
-    {
-        "coin_id": "scream",
-        "name": "Scream",
-        "symbol": "scream",
-        "address": "0xe0654c8e6fd4d733349ac7e09f6f23da256bf475",
-        "decimals": 18,
-        "market_cap_rank": 963,
-        "total_volume": 1848309,
-        "market_cap": 13256295,
-        "price": 91.78
     },
     {
         "coin_id": "vesper-finance",
@@ -319,39 +154,6 @@
         "price": 0.110132
     },
     {
-        "coin_id": "cryptokek",
-        "name": "Cryptokek",
-        "symbol": "kek",
-        "address": "0x627524d78b4fc840c887ffec90563c7a42b671fd",
-        "decimals": 18,
-        "market_cap_rank": 1636,
-        "total_volume": 303708,
-        "market_cap": 2528680,
-        "price": 0.053733
-    },
-    {
-        "coin_id": "cyberfi",
-        "name": "CyberFi",
-        "symbol": "cfi",
-        "address": "0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29",
-        "decimals": 18,
-        "market_cap_rank": 858,
-        "total_volume": 281616,
-        "market_cap": 17982011,
-        "price": 11.05
-    },
-    {
-        "coin_id": "tomb",
-        "name": "Tomb",
-        "symbol": "tomb",
-        "address": "0x6c021ae822bea943b2e66552bde1d2696a53fbb7",
-        "decimals": 18,
-        "market_cap_rank": 9223372036854775807,
-        "total_volume": 207850,
-        "market_cap": 0.0,
-        "price": 0.442432
-    },
-    {
         "coin_id": "wrapped-statera",
         "name": "Wrapped Statera",
         "symbol": "wsta",
@@ -372,17 +174,6 @@
         "total_volume": 155853,
         "market_cap": 0.0,
         "price": 1.64
-    },
-    {
-        "coin_id": "woofy",
-        "name": "Woofy",
-        "symbol": "woofy",
-        "address": "0xd0660cd418a64a1d44e9214ad8e459324d8157f1",
-        "decimals": 12,
-        "market_cap_rank": 1342,
-        "total_volume": 137943,
-        "market_cap": 5241032,
-        "price": 0.03066212
     },
     {
         "coin_id": "zlot",
@@ -495,17 +286,6 @@
         "price": 0.00042534
     },
     {
-        "coin_id": "death-token",
-        "name": "Death Token",
-        "symbol": "death",
-        "address": "0xeaf45b62d9d0bdc1d763baf306af5edd7c0d7e55",
-        "decimals": 9,
-        "market_cap_rank": 9223372036854775807,
-        "total_volume": 4988.84,
-        "market_cap": 0.0,
-        "price": 1.09e-06
-    },
-    {
         "coin_id": "pepedex",
         "name": "Pepedex",
         "symbol": "ppdex",
@@ -572,17 +352,6 @@
         "price": 0
     },
     {
-        "coin_id": "fantom-doge",
-        "name": "Fantom Doge",
-        "symbol": "rip",
-        "address": "0x1d43697d67cb5d0436cc38d583ca473a1bfebc7a",
-        "decimals": 9,
-        "market_cap_rank": 9223372036854775807,
-        "market_cap": 0,
-        "total_volume": 0,
-        "price": 0
-    },
-    {
         "coin_id": "kishu-inu",
         "name": "Kishu Inu",
         "symbol": "kishu",
@@ -592,40 +361,6 @@
         "market_cap": 0,
         "total_volume": 0,
         "price": 0
-    },
-    {
-        "coin_id": "morpheus-token",
-        "name": "Morpheus Token",
-        "symbol": "morph",
-        "address": "0x0789ff5ba37f72abc4d561d00648acadc897b32d",
-        "decimals": 18,
-        "market_cap_rank": 9223372036854775807,
-        "market_cap": 0,
-        "total_volume": 0,
-        "price": 0
-    },
-    {
-        "coin_id": "zoo-coin",
-        "name": "ZooCoin",
-        "symbol": "zoo",
-        "address": "0x09e145a1d53c0045f41aeef25d8ff982ae74dd56",
-        "decimals": 0,
-        "market_cap_rank": 9223372036854775807,
-        "market_cap": 0,
-        "total_volume": 0,
-        "price": 0
-    },
-    {
-        "coin_id": "yearn-finance",
-        "name": "yearn.finance",
-        "symbol": "yfi",
-        "address": "0x29b0da86e484e1c0029b56e817912d778ac0ec69"
-    },
-    {
-        "coin_id": "chainlink",
-        "name": "ChainLink",
-        "symbol": "link",
-        "address": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8"
     },
     {
         "coin_id": "binance-usd",

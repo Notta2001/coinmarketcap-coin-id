@@ -1,0 +1,886 @@
+[
+    {
+        "slug": "magic-internet-money",
+        "address": "0x82f0b8b456c1a451378467398982d4834b6829c1"
+    },
+    {
+        "slug": "tether",
+        "address": "0x049d68029688eabf473097a2fc38ef61633a3c7a"
+    },
+    {
+        "slug": "chainlink",
+        "address": "0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8"
+    },
+    {
+        "slug": "weth",
+        "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d"
+    },
+    {
+        "slug": "ren",
+        "address": "0x408e41876cccdc0f92210600ef50372656052a38"
+    },
+    {
+        "slug": "synthetix",
+        "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc"
+    },
+    {
+        "slug": "susd",
+        "address": "0x0E1694483eBB3b74d3054E383840C6cf011e518e"
+    },
+    {
+        "slug": "noku",
+        "address": "0xfb4d42bed5618fb1a377ddb64eb56b92a6d117f2"
+    },
+    {
+        "slug": "mainstream-for-the-underground",
+        "address": "0x5fdf0b736b0eb0564b50baf0d15a1a8ae6c6c1d9"
+    },
+    {
+        "slug": "usd-coin",
+        "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75"
+    },
+    {
+        "slug": "abbc-coin",
+        "address": "0xe83ce6bfb580583bd6a62b4be7b34fc25f02910d"
+    },
+    {
+        "slug": "wrapped-bitcoin",
+        "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11"
+    },
+    {
+        "slug": "ankr",
+        "address": "0x0615dbba33fe61a31c7ed131bda6655ed76748b1"
+    },
+    {
+        "slug": "payrue-propel",
+        "address": "0x5444c30210d8a0a156178cfb8048b4137c0d40d1"
+    },
+    {
+        "slug": "levolution",
+        "address": "0xf8a363Cf116b6B633faEDF66848ED52895CE703b"
+    },
+    {
+        "slug": "midas",
+        "address": "0xb37528da6b4d378305d000a66ad91bd88e626761"
+    },
+    {
+        "slug": "band-protocol",
+        "address": "0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5"
+    },
+    {
+        "slug": "banano",
+        "address": "0xe20b9e246db5a0d21bf9209e4858bc9a3ff7a034"
+    },
+    {
+        "slug": "multi-collateral-dai",
+        "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E"
+    },
+    {
+        "slug": "dsla-protocol",
+        "address": "0x25a528af62e56512a19ce8c3cab427807c28cc19"
+    },
+    {
+        "slug": "deapcoin",
+        "address": "0x8dFDC61c7c7551D0DEec950A2822eB59cddb8f59"
+    },
+    {
+        "slug": "renbtc",
+        "address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501"
+    },
+    {
+        "slug": "yearn-finance",
+        "address": "0x29b0Da86e484E1C0029B56e817912d778aC0EC69"
+    },
+    {
+        "slug": "anyswap",
+        "address": "0xddcb3ffd12750b45d32e084887fdf1aabab34239"
+    },
+    {
+        "slug": "cream-finance",
+        "address": "0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6"
+    },
+    {
+        "slug": "curve-dao-token",
+        "address": "0x1E4F97b9f9F913c46F1632781732927B9019C68b"
+    },
+    {
+        "slug": "growthdefi",
+        "address": "0x91f1430833879272643658f8ed07d60257ddf321"
+    },
+    {
+        "slug": "sushiswap",
+        "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC"
+    },
+    {
+        "slug": "hegic",
+        "address": "0x44B26E839eB3572c5E959F994804A5De66600349"
+    },
+    {
+        "slug": "frax",
+        "address": "0xdc301622e621166BD8E82f2cA0A26c13Ad0BE355"
+    },
+    {
+        "slug": "frax-share",
+        "address": "0x82f8cb20c14f134fe6ebf7ac3b903b2117aafa62"
+    },
+    {
+        "slug": "terrausd",
+        "address": "0x846e4d51d7e2043c1a87e0ab7490b93fb940357b"
+    },
+    {
+        "slug": "billionhappiness",
+        "address": "0x7BEB05cf5681f402E762F8569c2Fc138a2172978"
+    },
+    {
+        "slug": "gelato",
+        "address": "0x15b7c0c907e4c6b9adaaaabc300c08991d6cea05"
+    },
+    {
+        "slug": "aave",
+        "address": "0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B"
+    },
+    {
+        "slug": "beefy-finance",
+        "address": "0xd6070ae98b8069de6b494332d1a1a81b6179d960"
+    },
+    {
+        "slug": "atari-token",
+        "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b"
+    },
+    {
+        "slug": "wootrade",
+        "address": "0x6626c47c00F1D87902fc13EECfaC3ed06D5E8D8a"
+    },
+    {
+        "slug": "keep3rv1",
+        "address": "0x2A5062D22adCFaAfbd5C541d4dA82E4B450d4212"
+    },
+    {
+        "slug": "hyve",
+        "address": "0x90b89e881961E1053AeaDdbA13217d56F747349a"
+    },
+    {
+        "slug": "saffron-finance",
+        "address": "0x924828a9Fb17d47D0eb64b57271D10706699Ff11"
+    },
+    {
+        "slug": "plasma-finance",
+        "address": "0x3b42fd538597fd049648c9f017208bf712195b73"
+    },
+    {
+        "slug": "renfil",
+        "address": "0xc4Ace9278e7E01755B670C0838c3106367639962"
+    },
+    {
+        "slug": "cryptokek",
+        "address": "0x627524d78B4fC840C887ffeC90563c7A42b671fD"
+    },
+    {
+        "slug": "julswap",
+        "address": "0xeff6fcfbc2383857dd66ddf57efffc00d58b7d9d"
+    },
+    {
+        "slug": "unidex",
+        "address": "0x2130d2a1e51112d349ccf78d2a1ee65843ba36e0"
+    },
+    {
+        "slug": "rendoge",
+        "address": "0xce829a89d4a55a63418bcc43f00145adef0edb8e"
+    },
+    {
+        "slug": "hoge-finance",
+        "address": "0xF31778D591c558140398F46feCA42A6a2dbFFe90"
+    },
+    {
+        "slug": "modefi",
+        "address": "0xe64b9fd040d1f9d4715c645e0d567ef69958d3d9"
+    },
+    {
+        "slug": "bscstarter",
+        "address": "0x8ca2ecbce34c322fcea6db912d9dbfd2dda5920d"
+    },
+    {
+        "slug": "alpaca-finance",
+        "address": "0xad996a45fd2373ed0b10efa4a8ecb9de445a4302"
+    },
+    {
+        "slug": "bogged-finance",
+        "address": "0xB09FE1613fE03E7361319d2a43eDc17422f36B09"
+    },
+    {
+        "slug": "renzec",
+        "address": "0x31a0d1a199631d244761eeba67e8501296d2e383"
+    },
+    {
+        "slug": "zoocoin",
+        "address": "0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56"
+    },
+    {
+        "slug": "popsicle-finance",
+        "address": "0xf16e81dce15b08f326220742020379b855b87df9"
+    },
+    {
+        "slug": "fbomb",
+        "address": "0x8503eb4a136bdbeb323e37aa6e0fa0c772228378"
+    },
+    {
+        "slug": "signata",
+        "address": "0x3ebb4A4e91Ad83BE51F8d596533818b246F4bEe1"
+    },
+    {
+        "slug": "croxswap",
+        "address": "0x381785593f9bace15af908ac108b5f538155ff3e"
+    },
+    {
+        "slug": "o3-swap",
+        "address": "0xEe9801669C6138E84bD50dEB500827b776777d28"
+    },
+    {
+        "slug": "spookyswap",
+        "address": "0x841fad6eae12c286d1fd18d1d525dffa75c7effe"
+    },
+    {
+        "slug": "space-token",
+        "address": "0x5f7f94a1dd7b15594d17543beb8b30b111dd464c"
+    },
+    {
+        "slug": "graviton-one",
+        "address": "0xc1be9a4d5d45beeacae296a7bd5fadbfc14602c4"
+    },
+    {
+        "slug": "elk-finance",
+        "address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE"
+    },
+    {
+        "slug": "kalmar",
+        "address": "0x4f851750a3e6f80f1E1f89C67B56960Bfc29A934"
+    },
+    {
+        "slug": "feeder-finance",
+        "address": "0x5d5530eb3147152fe78d5c4bfeede054c8d1442a"
+    },
+    {
+        "slug": "makiswap",
+        "address": "0xEDf5e2Ac09002094Cc51B597CebE58C70182ADC5"
+    },
+    {
+        "slug": "mai",
+        "address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b"
+    },
+    {
+        "slug": "spiritswap",
+        "address": "0x5cc61a78f164885776aa610fb0fe1257df78e59b"
+    },
+    {
+        "slug": "wrapped-fantom",
+        "address": "0x21be370d5312f44cb42ce377bc9b8a0cef1a4c83"
+    },
+    {
+        "slug": "thorstarter",
+        "address": "https://ftmscan.com/token/0xe1e6b01ae86ad82b1f1b4eb413b219ac32e17bf6"
+    },
+    {
+        "slug": "catoshi-nakamoto",
+        "address": "0x64674D26df0Fd7cF8e9d5c8D721Bc202C6B98822"
+    },
+    {
+        "slug": "projectmars",
+        "address": "0xbe41772587872a92184873d55b09c6bb6f59f895"
+    },
+    {
+        "slug": "trava-finance",
+        "address": "0x477a9d5df9beda06f6b021136a2efe7be242fcc9"
+    },
+    {
+        "slug": "moonpot",
+        "address": "0xF7554D17d1c3F09899dCc8B404beCAE6dFA584Fa"
+    },
+    {
+        "slug": "spell-token",
+        "address": "0x468003b688943977e6130f4f68f23aad939a1040"
+    },
+    {
+        "slug": "yel-finance",
+        "address": "0xd3b71117e6c1558c1553305b44988cd944e97300"
+    },
+    {
+        "slug": "grimtoken",
+        "address": "0x7ec94c4327dc757601b4273cd67014d7760be97e"
+    },
+    {
+        "slug": "tarot",
+        "address": "0xc5e2b037d30a390e62180970b3aa4e91868764cd"
+    },
+    {
+        "slug": "tomb",
+        "address": "0x6c021Ae822BEa943b2E66552bDe1D2696a53fbB7"
+    },
+    {
+        "slug": "scream",
+        "address": "0xe0654C8e6fd4D733349ac7E09f6f23DA256bF475"
+    },
+    {
+        "slug": "totem-finance",
+        "address": "0x31a37aedc0c18aa139e120e1cdc673bbb2063e6f"
+    },
+    {
+        "slug": "steak-token",
+        "address": "0x05848b832e872d9edd84ac5718d58f21fd9c9649"
+    },
+    {
+        "slug": "fantom-doge",
+        "address": "0x1D43697D67cB5D0436cc38d583Ca473a1bFEbC7a"
+    },
+    {
+        "slug": "waka-finance",
+        "address": "0xf61ccde1d4bb76ced1daa9d4c429cca83022b08b"
+    },
+    {
+        "slug": "morpheus-token",
+        "address": "0x0789fF5bA37f72ABC4D561D00648acaDC897b32d"
+    },
+    {
+        "slug": "fantom-oasis",
+        "address": "0x9bd0611610a0f5133e4dd1bfdd71c5479ee77f37"
+    },
+    {
+        "slug": "death-token",
+        "address": "0xeaF45B62d9d0Bdc1D763baF306af5eDD7C0d7e55"
+    },
+    {
+        "slug": "synapse-2",
+        "address": "0xe55e19fb4f2d85af758950957714292dac1e25b2"
+    },
+    {
+        "slug": "allbridge",
+        "address": "0x543Acd673960041eEe1305500893260F1887B679"
+    },
+    {
+        "slug": "owldao",
+        "address": "0x9564fBfD3B3819D6Fb2DbC88C75E112400bE8F0C"
+    },
+    {
+        "slug": "parabolic",
+        "address": "0xcca3E26Be51b8905f1A01872524f17eb55Bd02fb"
+    },
+    {
+        "slug": "retreeb",
+        "address": "0xc60d7067dfbc6f2caf30523a064f416a5af52963"
+    },
+    {
+        "slug": "tetu",
+        "address": "0x65c9d9d080714cDa7b5d58989Dc27f897F165179"
+    },
+    {
+        "slug": "timechain-swap-token",
+        "address": "0xfbfae0dd49882e503982f8eb4b8b1e464eca0b91"
+    },
+    {
+        "slug": "dei",
+        "address": "0xDE12c7959E1a72bbe8a5f7A1dc8f8EeF9Ab011B3"
+    },
+    {
+        "slug": "aquarius-protocol",
+        "address": "0x0f7adb77b6334b9b5a3c4f78aaa073ea1d915bf6"
+    },
+    {
+        "slug": "geist-finance",
+        "address": "0xd8321aa83fb0a4ecd6348d4577431310a6e0814d"
+    },
+    {
+        "slug": "fang-token",
+        "address": "0x49894fcc07233957c35462cfc3418ef0cc26129f"
+    },
+    {
+        "slug": "dark-matter-defi",
+        "address": "0x90e892fed501ae00596448aecf998c88816e5c0f"
+    },
+    {
+        "slug": "coffin-finance",
+        "address": "0x593ab53baffaf1e821845cf7080428366f030a9c"
+    },
+    {
+        "slug": "mind-music",
+        "address": "0x1cd2528522A17B6Be63012fB63AE81f3e3e29D97"
+    },
+    {
+        "slug": "hundred-finance",
+        "address": "0x10010078a54396F62c96dF8532dc2B4847d47ED3"
+    },
+    {
+        "slug": "artwallet",
+        "address": "0xD3c325848D7c6E29b574Cb0789998b2ff901f17E"
+    },
+    {
+        "slug": "deus-finance-2",
+        "address": "0xDE5ed76E7c05eC5e4572CfC88d1ACEA165109E44"
+    },
+    {
+        "slug": "cougar",
+        "address": "0x5a2e451Fb1b46FDE7718315661013ae1aE68e28C"
+    },
+    {
+        "slug": "yoshi-exchange",
+        "address": "0x3dc57B391262e3aAe37a08D91241f9bA9d58b570"
+    },
+    {
+        "slug": "wolf-safe-poor-people-polygon",
+        "address": "0x685a211c9d96d0c8c9d22b7ae309538d4c69c15c"
+    },
+    {
+        "slug": "paintswap",
+        "address": "0x85dec8c4B2680793661bCA91a8F129607571863d"
+    },
+    {
+        "slug": "fantomstarter",
+        "address": "0xC758295Cd1A564cdb020a78a681a838CF8e0627D"
+    },
+    {
+        "slug": "beethoven-x",
+        "address": "0xf24bcf4d1e507740041c9cfd2dddb29585adce1e"
+    },
+    {
+        "slug": "liquid-driver",
+        "address": "0x10b620b2dbac4faa7d7ffd71da486f5d44cd86f9"
+    },
+    {
+        "slug": "justyours",
+        "address": "0x37c045be4641328dfeb625f1dde610d061613497"
+    },
+    {
+        "slug": "soulswap-finance",
+        "address": "0xe2fb177009ff39f52c0134e8007fa0e4baacbd07"
+    },
+    {
+        "slug": "elite-1337",
+        "address": "0xf43cc235e686d7bc513f53fbffb61f760c3a1882"
+    },
+    {
+        "slug": "spartacus",
+        "address": "0x5602df4a94eb6c680190accfa2a475621e0ddbdc"
+    },
+    {
+        "slug": "hector-dao",
+        "address": "0x5c4fdfc5233f935f20d2adba572f770c2e377ab0"
+    },
+    {
+        "slug": "ginspirit",
+        "address": "0x2787bea3366335068bf8b4a253044d09ea4e1c96"
+    },
+    {
+        "slug": "ftm-pup-token",
+        "address": "0x900825ea297c7c5d1f6fa54146849bc41eddaf29"
+    },
+    {
+        "slug": "fantohm",
+        "address": "0xfa1fbb8ef55a4855e5688c0ee13ac3f202486286"
+    },
+    {
+        "slug": "tempus",
+        "address": "0x1c174f6ab0753162befbb916c69def2cc1bfdec1"
+    },
+    {
+        "slug": "walletnow",
+        "address": "0xa9cad0165c155f3998b0001b3ef30bca0aa6b591"
+    },
+    {
+        "slug": "cross-chain-bridge-token",
+        "address": "0x92868a5255c628da08f550a858a802f5351c5223"
+    },
+    {
+        "slug": "undead-finance",
+        "address": "0x551C61DB482289994e7d426Fc4DB6493918bB81D"
+    },
+    {
+        "slug": "hyperjump",
+        "address": "0x78de9326792ce1d6eca0c978753c6953cdeedd73"
+    },
+    {
+        "slug": "trusted-node",
+        "address": "0x7fc5670b2041d34414b0b2178fc660b1e1faf801"
+    },
+    {
+        "slug": "metagaming-guild",
+        "address": "0xfda8355e8ce22ac44f2d175f4acfec8fac7472d7"
+    },
+    {
+        "slug": "wingswap",
+        "address": "0xF24be6c063Bee7c7844dD90a21fdf7d783d41a94"
+    },
+    {
+        "slug": "everrise",
+        "address": "0xC17c30e98541188614dF99239cABD40280810cA3"
+    },
+    {
+        "slug": "monster-metaland",
+        "address": "0x152888854378201e173490956085c711f1DeD565"
+    },
+    {
+        "slug": "snt",
+        "address": "0x69d17c151ef62421ec338a0c92ca1c1202a427ec"
+    },
+    {
+        "slug": "chargedefi",
+        "address": "0xe74621A75C6ADa86148b62Eef0894E05444EAE69"
+    },
+    {
+        "slug": "charm",
+        "address": "0x248CB87DDA803028dfeaD98101C9465A2fbdA0d4"
+    },
+    {
+        "slug": "grim-finance",
+        "address": "0x117dB78176C8eDe4F12fCd29d85Cd96b91A4cbBb"
+    },
+    {
+        "slug": "magiccraft",
+        "address": "0xe705af5f63fcabdcdf5016aa838eaaac35d12890"
+    },
+    {
+        "slug": "moda-dao",
+        "address": "0x6496994241804d7fe2b032901931e03bcd82301f"
+    },
+    {
+        "slug": "dexbrowser",
+        "address": "0x230576a0455d7ae33c6defe64182c0bb68bafaf3"
+    },
+    {
+        "slug": "chargedefi-static",
+        "address": "0x27182C8b647fd83603bB442C0E450DE7445ccfB8"
+    },
+    {
+        "slug": "xy-finance",
+        "address": "0x444444443B0fcB2733b93F23C910580FBa52FFFA"
+    },
+    {
+        "slug": "scary-chain-capital-new",
+        "address": "0xa231d452e4bca86672fd6109de94688d1e17aae5"
+    },
+    {
+        "slug": "bakerguild",
+        "address": "0xfe27133f2e8c8539363883d914bccb4b21ebd28a"
+    },
+    {
+        "slug": "wrapped-staked-hec",
+        "address": "0x94ccf60f700146bea8ef7832820800e2dfa92eda"
+    },
+    {
+        "slug": "multi-chain-capital-new",
+        "address": "0xc146b7cdbaff065090077151d391f4c96aa09e0c"
+    },
+    {
+        "slug": "bitcoinbr",
+        "address": "0xb355f4f4cc84a9429a59d5c2b98d77016f7ec482"
+    },
+    {
+        "slug": "poopsicle",
+        "address": "0x070eb1a48725622de867a7e3d1dd4f0108966ed1"
+    },
+    {
+        "slug": "incognito",
+        "address": "0x43d037a562099a4c2c95b1e2120cc43054450629"
+    },
+    {
+        "slug": "a4",
+        "address": "0x9767203e89dcd34851240b3919d4900d3e5069f1"
+    },
+    {
+        "slug": "ftmlaunch",
+        "address": "0x9613288dcf37c14324ab64eb53b2e7be7292d724"
+    },
+    {
+        "slug": "scarab-finance",
+        "address": "0x2e79205648b85485731cfe3025d66cf2d3b059c4"
+    },
+    {
+        "slug": "gscarab",
+        "address": "0x6ab5660f0B1f174CFA84e9977c15645e4848F5D6"
+    },
+    {
+        "slug": "pumpkindao",
+        "address": "0x8eDDA0107D661E82df660DBa01Ff1D40FA17B70c"
+    },
+    {
+        "slug": "jefe-token",
+        "address": "0x5b2AF7fd27E2Ea14945c82Dd254c79d3eD34685e"
+    },
+    {
+        "slug": "seancecircle",
+        "address": "0x124b06c5ce47de7a6e9efda71a946717130079e6"
+    },
+    {
+        "slug": "fantom-usd",
+        "address": "0xad84341756bf337f5a0164515b1f6f993d194e1f"
+    },
+    {
+        "slug": "2omb-finance",
+        "address": "0x7a6e4e3cc2ac9924605dca4ba31d1831c84b44ae"
+    },
+    {
+        "slug": "2share",
+        "address": "0xc54a1684fd1bef1f077a336e6be4bd9a3096a6ca"
+    },
+    {
+        "slug": "tomb-shares",
+        "address": "0x4cdf39285d7ca8eb3f090fda0c069ba5f4145b37"
+    },
+    {
+        "slug": "multichain",
+        "address": "0x9Fb9a33956351cf4fa040f65A13b835A3C8764E3"
+    },
+    {
+        "slug": "comb-finance",
+        "address": "0xae45a827625116d6c0c40b5d7359ecf68f8e9afd"
+    },
+    {
+        "slug": "atlas-cloud",
+        "address": "0x92df3eaBf7c1c2A6b3D5793f6d53778eA78c48b2"
+    },
+    {
+        "slug": "wrapped-memory",
+        "address": "0xddc0385169797937066bbd8ef409b5b3c0dfeb52"
+    },
+    {
+        "slug": "supa-foundation",
+        "address": "0x59D07a115fe3FFe5db3D52029D43Cc0ef5e9ba08"
+    },
+    {
+        "slug": "betswap-gg",
+        "address": "0x5a33869045db8a6a16c9f351293501cfd92cf7ed"
+    },
+    {
+        "slug": "linspirit",
+        "address": "0xc5713b6a0f26bf0fdc1c52b90cd184d950be515c"
+    },
+    {
+        "slug": "topshelf-finance",
+        "address": "0x33333ee26a7d02e41c33828b42fb1e0889143477"
+    },
+    {
+        "slug": "vedao",
+        "address": "0x911da02c1232a3c3e1418b834a311921143b04d7"
+    },
+    {
+        "slug": "stream-coin",
+        "address": "0x94a7f270cd12545a277e656266aef5e27df3eb28"
+    },
+    {
+        "slug": "chainport",
+        "address": "0x504ec4f9af7bbf8cad73ccc2121a3a7fb4c81bcf"
+    },
+    {
+        "slug": "tank-wars-zone",
+        "address": "0x59c6606ed2af925f270733e378d6af7829b5b3cf"
+    },
+    {
+        "slug": "0xdao",
+        "address": "0xc165d941481e68696f43ee6e99bfb2b23e0e3114"
+    },
+    {
+        "slug": "iron-bank",
+        "address": "0x00a35FD824c717879BF370E70AC6868b95870Dfb"
+    },
+    {
+        "slug": "protofi",
+        "address": "0xa23c4e69e5Eaf4500F2f9301717f12B578b948FB"
+    },
+    {
+        "slug": "oni-token",
+        "address": "0x667c856f1A624BAeFE89fC4909C8701296C86c98"
+    },
+    {
+        "slug": "moneyrain-finance",
+        "address": "0x9ce66Ef13D88cb1bC567E47459841483c5d9457C"
+    },
+    {
+        "slug": "onering",
+        "address": "0x582423c10c9e83387a96d00a69ba3d11ee47b7b5"
+    },
+    {
+        "slug": "grim-evo",
+        "address": "0x0a77866c01429941bfc7854c0c0675db1015218b"
+    },
+    {
+        "slug": "magik-finance",
+        "address": "0x87a5c9b60a3aaf1064006fe64285018e50e0d020"
+    },
+    {
+        "slug": "based-finance",
+        "address": "0x8D7d3409881b51466B483B11Ea1B8A03cdEd89ae"
+    },
+    {
+        "slug": "pftm",
+        "address": "0x112df7e3b4b7ab424f07319d4e92f41e6608c48b"
+    },
+    {
+        "slug": "tor",
+        "address": "0x74e23df9110aa9ea0b6ff2faee01e740ca1c642e"
+    },
+    {
+        "slug": "wigoswap",
+        "address": "0xE992bEAb6659BFF447893641A378FbbF031C5bD6"
+    },
+    {
+        "slug": "panicswap",
+        "address": "0xa882ceac81b22fc2bef8e1a82e823e3e9603310b"
+    },
+    {
+        "slug": "bnbback",
+        "address": "0x280EbB7c9F2C90Ac6dD136516598a2f9efe70507"
+    },
+    {
+        "slug": "gocryptome",
+        "address": "0x9528cCEb678B90dAf02cA5cA45622D5cBaF58A30"
+    },
+    {
+        "slug": "solidex",
+        "address": "0xD31Fcd1f7Ba190dBc75354046F6024A9b86014d7"
+    },
+    {
+        "slug": "solidly",
+        "address": "0x888ef71766ca594ded1f0fa3ae64ed2941740a20"
+    },
+    {
+        "slug": "orkan",
+        "address": "0xfB66e49e303A186a4c57414Ceeed651a7a78161a"
+    },
+    {
+        "slug": "solidsex-tokenized-vesolid",
+        "address": "0x41adac6c1ff52c5e27568f27998d747f7b69795b"
+    },
+    {
+        "slug": "oath",
+        "address": "0x21ada0d2ac28c3a5fa3cd2ee30882da8812279b6"
+    },
+    {
+        "slug": "fantom-maker",
+        "address": "0x904f51a2e7eeaf76aaf0418cbaf0b71149686f4a"
+    },
+    {
+        "slug": "darkknight",
+        "address": "0x6cc0e0aedbbd3c35283e38668d959f6eb3034856"
+    },
+    {
+        "slug": "5table-finance",
+        "address": "0x14d6111dbfD64CEb9676a494BF86AA9f7DD54acC"
+    },
+    {
+        "slug": "excalibur-exchange",
+        "address": "0x6e99e0676A90b2a5a722C44109db22220382cc9F"
+    },
+    {
+        "slug": "beefy-escrowed-fantom",
+        "address": "0x7381ed41f6de418dde5e84b55590422a57917886"
+    },
+    {
+        "slug": "curve-fi-gdai-gusdc-gusdt",
+        "address": "0xd02a30d33153877bc20e5721ee53dedee0422b2f"
+    },
+    {
+        "slug": "staked-tarot",
+        "address": "0x74d1d2a851e339b8cb953716445be7e8abdf92f4"
+    },
+    {
+        "slug": "stargate-finance",
+        "address": "0x2f6f07cdcf3588944bf4c42ac74ff24bf56e7590"
+    },
+    {
+        "slug": "0xdao-v2",
+        "address": "0xc5A9848b9d145965d821AaeC8fA32aaEE026492d"
+    },
+    {
+        "slug": "tartarus-finance",
+        "address": "0xe36ac17edb23bdd89d363d152365df019e3eaf71"
+    },
+    {
+        "slug": "random-token",
+        "address": "0x87d57F92852D7357Cf32Ac4F6952204f2B0c1A27"
+    },
+    {
+        "slug": "radioshack",
+        "address": "0xf899e3909B4492859d44260E1de41A9E663e70F5"
+    },
+    {
+        "slug": "inverse-finance-dola-stablecoin",
+        "address": "0x3129662808bec728a27ab6a6b9afd3cbaca8a43c"
+    },
+    {
+        "slug": "usd-balance",
+        "address": "0x6Fc9383486c163fA48becdEC79d6058f984f62cA"
+    },
+    {
+        "slug": "fantom-libero-financial",
+        "address": "0xc3f069d7439baf6d4d6e9478d9cc77778e62d147"
+    },
+    {
+        "slug": "assent-protocol",
+        "address": "0x5B3C1F260E09e653290f24F75abC5e466fD42310"
+    },
+    {
+        "slug": "decentraworld",
+        "address": "0xCDD6494aEB193C8d5541b5B9c5e72a3809A98fdc"
+    },
+    {
+        "slug": "crime-cash-game",
+        "address": "0xF378f05a51868C29D94f57E4240d7423cB526083"
+    },
+    {
+        "slug": "dante-finance",
+        "address": "0xDA763530614fb51DFf9673232C8B3b3e0A67bcf2"
+    },
+    {
+        "slug": "shack-token",
+        "address": "0x462Fa81050f0fF732D59df121BFd9b8Bab072018"
+    },
+    {
+        "slug": "echelon",
+        "address": "0xb868B46BcEC6595A953e351e6d8459bedEF6805E"
+    },
+    {
+        "slug": "mangamon",
+        "address": "0x8A88b501A68ceA5844B9d95F41892b05c4cd1d73"
+    },
+    {
+        "slug": "lif3",
+        "address": "0xbf60e7414ef09026733c1e7de72e7393888c64da"
+    },
+    {
+        "slug": "lif3-lshare",
+        "address": "0xcbe0ca46399af916784cadf5bcc3aed2052d6c45"
+    },
+    {
+        "slug": "zest-synthetic-protocol",
+        "address": "0x2c26617034c840c9412cd67ae0fc68a6755d00bf"
+    },
+    {
+        "slug": "intdestcoin",
+        "address": "0x8Bb93979901cd159bF6763B223FBb315C31CCF7b"
+    },
+    {
+        "slug": "build",
+        "address": "0xa6097a4DbEF3EB44c50bad6286a5ED2bc4418AA2"
+    },
+    {
+        "slug": "based-finance-next-gen",
+        "address": "0x1539C63037D95f84A5981F96e43850d1451b6216"
+    },
+    {
+        "slug": "pebble",
+        "address": "0x9a2d0935e6cc558aaba4ebd280f03a74b4752add"
+    },
+    {
+        "slug": "serene",
+        "address": "0x60d8d17d6b824e19f77eaccaf16ed7ba6fb209c2"
+    },
+    {
+        "slug": "rainspirit",
+        "address": "0xf9c6e3c123f0494a4447100bd7dbd536f43cc33a"
+    },
+    {
+        "slug": "takepile",
+        "address": "0xe9e5a97acc59bb68813bf368487fbffd0a39713b"
+    },
+    {
+        "slug": "stader-sftmx",
+        "address": "0xd7028092c830b5C8FcE061Af2E593413EbbC1fc1"
+    }
+]

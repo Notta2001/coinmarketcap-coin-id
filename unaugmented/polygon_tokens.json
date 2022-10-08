@@ -21,13 +21,6 @@
         "symbol": "theta"
     },
     {
-        "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
-        "coin_id": "dai",
-        "origin_token_id": "",
-        "name": "Dai",
-        "symbol": "dai"
-    },
-    {
         "address": "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c",
         "coin_id": "crypto-com-chain",
         "origin_token_id": "",
@@ -70,12 +63,6 @@
         "symbol": "matic"
     },
     {
-        "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
-        "name": "MAI (MIMATIC)",
-        "symbol": "MAI",
-        "coin_id": "mimatic"
-    },
-    {
         "address": "0x2c89bbc92bd86f8075d1decc58c7f4e0107f286b",
         "name": "Avalanche",
         "symbol": "AVAX",
@@ -86,11 +73,5 @@
         "name": "EvoVerses",
         "symbol": "EVO",
         "coin_id": "evoverses"
-    },
-    {
-        "coin_id": "dfyn-network",
-        "name": "Dfyn Network",
-        "symbol": "DFYN",
-        "address": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97"
     }
 ]

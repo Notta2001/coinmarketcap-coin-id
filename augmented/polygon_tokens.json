@@ -48,6 +48,14 @@
         "cmc_id": "wrapped-bitcoin"
     },
     {
+        "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "coin_id": "dai",
+        "origin_token_id": "",
+        "name": "Dai",
+        "symbol": "dai",
+        "cmc_id": "multi-collateral-dai"
+    },
+    {
         "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
         "coin_id": "aave",
         "origin_token_id": "",
@@ -64,10 +72,31 @@
         "cmc_id": "wmatic"
     },
     {
+        "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+        "name": "MAI (MIMATIC)",
+        "symbol": "MAI",
+        "coin_id": "mimatic",
+        "cmc_id": "mai"
+    },
+    {
         "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
         "name": "Router Protocol",
         "symbol": "ROUTE",
         "coin_id": "route",
         "cmc_id": "router-protocol"
+    },
+    {
+        "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+        "name": "Router Protocol",
+        "symbol": "ROUTE",
+        "coin_id": "route",
+        "cmc_id": "router-protocol"
+    },
+    {
+        "coin_id": "dfyn-network",
+        "name": "Dfyn Network",
+        "symbol": "DFYN",
+        "address": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
+        "cmc_id": "dfyn-network"
     }
 ]

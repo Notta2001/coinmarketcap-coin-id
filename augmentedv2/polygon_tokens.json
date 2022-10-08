@@ -48,6 +48,14 @@
         "cmc_id": "wrapped-bitcoin"
     },
     {
+        "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
+        "coin_id": "dai",
+        "origin_token_id": "",
+        "name": "Dai",
+        "symbol": "dai",
+        "cmc_id": "multi-collateral-dai"
+    },
+    {
         "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
         "coin_id": "aave",
         "origin_token_id": "",
@@ -64,11 +72,32 @@
         "cmc_id": "wmatic"
     },
     {
+        "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
+        "name": "MAI (MIMATIC)",
+        "symbol": "MAI",
+        "coin_id": "mimatic",
+        "cmc_id": "mai"
+    },
+    {
         "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
         "name": "Router Protocol",
         "symbol": "ROUTE",
         "coin_id": "route",
         "cmc_id": "router-protocol"
+    },
+    {
+        "address": "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+        "name": "Router Protocol",
+        "symbol": "ROUTE",
+        "coin_id": "route",
+        "cmc_id": "router-protocol"
+    },
+    {
+        "coin_id": "dfyn-network",
+        "name": "Dfyn Network",
+        "symbol": "DFYN",
+        "address": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
+        "cmc_id": "dfyn-network"
     },
     {
         "address": "0xdab529f40e671a1d4bf91361c21bf9f0c9712ab7",
@@ -79,59 +108,12 @@
         "cmc_id": "binance-usd"
     },
     {
-        "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
-        "coin_id": "dai",
-        "origin_token_id": "",
-        "name": "Dai",
-        "symbol": "dai",
-        "cmc_id": "multi-collateral-dai"
-    },
-    {
-        "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
-        "coin_id": "compound-governance-token",
-        "origin_token_id": "",
-        "name": "Compound",
-        "symbol": "comp",
-        "cmc_id": "compound"
-    },
-    {
-        "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
-        "coin_id": "the-graph",
-        "origin_token_id": "",
-        "name": "The Graph",
-        "symbol": "grt",
-        "cmc_id": "the-graph"
-    },
-    {
-        "address": "0x",
-        "coin_id": "matic-network",
-        "origin_token_id": "matic-network",
-        "name": "Polygon",
-        "symbol": "matic",
-        "cmc_id": "polygon"
-    },
-    {
-        "coin_id": "dfyn-network",
-        "name": "Dfyn Network",
-        "symbol": "DFYN",
-        "address": "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
-        "cmc_id": "dfyn-network"
-    },
-    {
         "address": "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c",
         "coin_id": "crypto-com-chain",
         "origin_token_id": "",
         "name": "Crypto.com Coin",
         "symbol": "cro",
         "cmc_id": "cronos"
-    },
-    {
-        "address": "0xf4310adb83694bc4808e0c5ca8f7027c6127921d",
-        "coin_id": "oraichain-token",
-        "origin_token_id": "",
-        "name": "Oraichain Token",
-        "symbol": "orai",
-        "cmc_id": "oraichain-token"
     },
     {
         "address": "0x6f7c932e7684666c9fd1d44527765433e01ff61d",
@@ -142,10 +124,35 @@
         "cmc_id": "maker"
     },
     {
-        "address": "0xa3fa99a148fa48d14ed51d610c367c61876997f1",
-        "name": "MAI (MIMATIC)",
-        "symbol": "MAI",
-        "coin_id": "mimatic",
-        "cmc_id": "mai"
+        "address": "0xf4310adb83694bc4808e0c5ca8f7027c6127921d",
+        "coin_id": "oraichain-token",
+        "origin_token_id": "",
+        "name": "Oraichain Token",
+        "symbol": "orai",
+        "cmc_id": "oraichain-token"
+    },
+    {
+        "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+        "coin_id": "compound-governance-token",
+        "origin_token_id": "",
+        "name": "Compound",
+        "symbol": "comp",
+        "cmc_id": "compound"
+    },
+    {
+        "address": "0x",
+        "coin_id": "matic-network",
+        "origin_token_id": "matic-network",
+        "name": "Polygon",
+        "symbol": "matic",
+        "cmc_id": "polygon"
+    },
+    {
+        "address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531",
+        "coin_id": "the-graph",
+        "origin_token_id": "",
+        "name": "The Graph",
+        "symbol": "grt",
+        "cmc_id": "the-graph"
     }
 ]
